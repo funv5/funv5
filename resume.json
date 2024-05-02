@@ -1,118 +1,119 @@
 {
-  "titleNameMap": {
-    "educationList": "教育背景",
-    "workExpList": "工作经历",
-    "projectList": "项目经验",
-    "skillList": "个人技能",
-    "awardList": "更多信息",
-    "workList": "个人作品",
-    "aboutme": "个人评价"
-  },
-  "avatar": {
-    "src": "https://img.funv5.com/file/95d4e870c8bb401f5dbad.jpg",
-    "hidden": false
-  },
-  "profile": {
-    "name": "庄胜",
-    "email": "sheng.zhuang@139.com",
-    "mobile": "136-0909-4280"
-    "workExpYear": "15"
-  },
-  "educationList": [
-    {
-      "edu_time": [
-        "2005.09.01",
-        "2009.06.30"
-      ],
-      "school": "电子科技大学",
-      "major": "通信工程",
-      "academic_degree": "本科"
+    "titleNameMap": {
+      "educationList": "教育背景",
+      "workExpList": "工作经历",
+      "projectList": "项目经验",
+      "skillList": "个人技能",
+      "awardList": "更多信息",
+      "workList": "个人作品",
+      "aboutme": "个人评价"
+    },
+    "avatar": {
+      "src": "https://img.funv5.com/file/95d4e870c8bb401f5dbad.jpg",
+      "hidden": false
+    },
+    "profile": {
+      "name": "庄胜",
+      "email": "sheng.zhuang@139.com",
+      "mobile": "136-0909-4280",
+      "workExpYear": "15"
+    },
+    "educationList": [
+      {
+        "edu_time": [
+          "2005.09.01",
+          "2009.06.30"
+        ],
+        "school": "电子科技大学",
+        "major": "通信工程",
+        "academic_degree": "本科"
+      }
+    ],
+    "awardList": [
+      {
+        "award_info": "英语 CET6",
+        "award_time": "2008"
+      },
+      {
+        "award_info": "优秀员工",
+        "award_time": "2019.02"
+      },
+      {
+        "award_info": "优秀员工",
+        "award_time": "2012.10"
+      }
+    ],
+    "workExpList": [
+      {
+        "company_name": "广州逸仙电子商务有限公司",
+        "department_name": "IT部",
+        "work_time": [
+          "2018.08",
+          null
+        ],
+        "work_desc": "1. 担任软件架构师、技术总监、企业效率IT负责人\r\n2. 负责IT团队搭建，关键系统架构设计，技术团队管理\n3. 熟悉电子商城开发、ERP等企业系统统筹建设、运维"
+      },
+      {
+        "company_name": "广州江楠鲜品科技有限公司",
+        "department_name": "IT部",
+        "work_time": [
+          "2017.05",
+          "2018.08"
+        ],
+        "work_desc": "资深开发工程师，负责供应商、商城等核心模块的设计开发和系统性能优化。"
+      },
+      {
+        "company_name": "广州达伦信息科技有限公司",
+        "department_name": "游戏开发部",
+        "work_time": [
+          "2016.12",
+          "2017.04"
+        ],
+        "work_desc": "WEB技术负责人，负责棋牌游戏的游戏接口、管理后台、代理后台、微信公众号等设计开发。"
+      }, 
+      {
+        "company_name": "广州柠蜜信息科技有限公司",
+        "department_name": "游戏开发部",
+        "work_time": [
+          "2015.08",
+          "2016.12"
+        ],
+        "work_desc": "高级开发工程师，负责趣运动APP接口、商家后台、数据采集中心、微信公众号等设计开发。"
+      }
+      
+    ],
+    "skillList": [],
+    "projectList": [
+     
+      {
+        "project_name": "新品牌IT系统整合项目",
+        "project_role": "项目负责人",
+        "project_time": "2020.08 - 2021.10",
+        "project_desc": "将收购的新品牌原有IT系统，业务流程梳理改造，整合到集团现有业务流中，保证业务持续和不间断运作，降低运行成本和有效管理。 ",
+        "project_content": "在项目中主要负责统筹项目和整体方案设计。\n1. 先后主导多个新品牌的业务流程整合和系统切换。\n2. 梳理近百条流程，多个关联业务系统，多个关联部门。\n3. 并总结沉淀了新品牌系统整合SOP，提高了新品牌入驻效率。"
+      },
+      {
+        "project_name": "ERP实施项目",
+        "project_role": "项目关键人",
+        "project_time": "2020.04 - 2020.12",
+        "project_desc": "围绕货物流、资金流、信息流的获取、贯通与共享，从业务流程、IT系统的角度联通业务端到端、业财一体、业务与分析",
+        "project_content": "项目主要解决公司高速发展导致流程与系统建设分散的问题，引入业务流程框架，重新设计端到端业务流程，规范系统边界，数据标准，建立支撑全渠道销售的业财一体化管理平台"
+      },
+       {
+        "project_name": "完美日记小程序商城",
+        "project_role": "架构师",
+        "project_time": "2019.04 - 2020.04",
+        "project_desc": "完美日记小程序商城，完整的电子。",
+        "project_content": "1. 独立负责产品从 0 到 1 的开发、产品功能迭代（在项目中具有推动项目进度的经验） 2. 产品体验精雕细琢的打磨 3. 建立稳定性保障机制。目前仍在迭代中，帮助提升高管业务决策效率"
+      }
+    ],
+    "workList": [],
+    "aboutme": {
+      "aboutme_desc": "🌱 多年IT领域工作经验，从研发到架构、管理多个岗位历练，拥有全面的企业数据化建设和IT团队管理能力。\n参与逸仙电商IT团队从0搭建，主导关键系统技术落地，负责过高并发微商城架构设计，ERP系统实施，新品牌IT系统整合等工作，现任企业效率IT团队负责人。"
+    },
+    "theme": {
+      "color": "#2f5785",
+      "tagColor": "#8bc34a"
     }
-  ],
-  "awardList": [
-    {
-      "award_info": "英语 CET6",
-      "award_time": "2008"
-    },
-    {
-      "award_info": "优秀员工",
-      "award_time": "2019.02"
-    },
-    {
-      "award_info": "优秀员工",
-      "award_time": "2012.10"
-    }
-  ],
-  "workExpList": [
-    {
-      "company_name": "广州逸仙电子商务有限公司",
-      "department_name": "IT部",
-      "work_time": [
-        "2018.08",
-        null
-      ],
-      "work_desc": "1. 担任软件架构师、技术总监、企业效率IT负责人\r\n2. 负责IT团队搭建，关键系统架构设计，技术团队管理\n3. 熟悉电子商城开发、ERP等企业系统统筹建设、运维"
-    },
-    {
-      "company_name": "广州江楠鲜品科技有限公司",
-      "department_name": "IT部",
-      "work_time": [
-        "2017.05",
-        "2018.08"
-      ],
-      "work_desc": "资深开发工程师，负责供应商、商城等核心模块的设计开发和系统性能优化。"
-    },
-    {
-      "company_name": "广州达伦信息科技有限公司",
-      "department_name": "游戏开发部",
-      "work_time": [
-        "2016.12",
-        "2017.04"
-      ],
-      "work_desc": "WEB技术负责人，负责棋牌游戏的游戏接口、管理后台、代理后台、微信公众号等设计开发。"
-    }, 
-    {
-      "company_name": "广州柠蜜信息科技有限公司",
-      "department_name": "游戏开发部",
-      "work_time": [
-        "2015.08",
-        "2016.12"
-      ],
-      "work_desc": "高级开发工程师，负责趣运动APP接口、商家后台、数据采集中心、微信公众号等设计开发。"
-    }
-    
-  ],
-  "skillList": [],
-  "projectList": [
-   
-    {
-      "project_name": "新品牌IT系统整合项目",
-      "project_role": "项目负责人",
-      "project_time": "2020.08 - 2021.10",
-      "project_desc": "将收购的新品牌原有IT系统，业务流程梳理改造，整合到集团现有业务流中，保证业务持续和不间断运作，降低运行成本和有效管理。 ",
-      "project_content": "在项目中主要负责统筹项目和整体方案设计。\n1. 先后主导多个新品牌的业务流程整合和系统切换。\n2. 梳理近百条流程，多个关联业务系统，多个关联部门。\n3. 并总结沉淀了新品牌系统整合SOP，提高了新品牌入驻效率。"
-    },
-    {
-      "project_name": "ERP实施项目",
-      "project_role": "项目关键人",
-      "project_time": "2020.04 - 2020.12",
-      "project_desc": "围绕货物流、资金流、信息流的获取、贯通与共享，从业务流程、IT系统的角度联通业务端到端、业财一体、业务与分析",
-      "project_content": "项目主要解决公司高速发展导致流程与系统建设分散的问题，引入业务流程框架，重新设计端到端业务流程，规范系统边界，数据标准，建立支撑全渠道销售的业财一体化管理平台"
-    },
-     {
-      "project_name": "完美日记小程序商城",
-      "project_role": "架构师",
-      "project_time": "2019.04 - 2020.04",
-      "project_desc": "完美日记小程序商城，完整的电子。",
-      "project_content": "1. 独立负责产品从 0 到 1 的开发、产品功能迭代（在项目中具有推动项目进度的经验） 2. 产品体验精雕细琢的打磨 3. 建立稳定性保障机制。目前仍在迭代中，帮助提升高管业务决策效率"
-    }
-  ],
-  "workList": [],
-  "aboutme": {
-    "aboutme_desc": "🌱 多年IT领域工作经验，经历从研发到管理多个岗位历练，具备企业数据化建设能力。\n"
-  },
-  "theme": {
-    "color": "#2f5785",
-    "tagColor": "#8bc34a"
   }
-}
+  
